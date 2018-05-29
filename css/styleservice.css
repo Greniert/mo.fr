@@ -1,0 +1,136 @@
+*{
+	box-sizing: border-box;
+	margin-top: 0;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+}
+
+ul{
+	list-style: none;
+}
+
+html, body {
+  padding:0;
+  margin:0;
+}
+
+body{
+	/*background-color: #fcfcea; */
+	background: url(../image/Nosservices.jpg)no-repeat;
+	
+}
+
+h2{
+	font-family: lobster;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+h4{
+	font-size: px;
+}
+
+section{
+    margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 10px;
+}
+
+.wrapper{
+	width: 930px;
+	margin: 0 auto;
+	padding: 0 10px;
+	text-align: center;
+	
+}
+
+.clear{
+	clear: both;
+}
+
+.colapsize{
+	width: 55%;
+	margin: auto;
+	margin-bottom: 200px;
+}
+
+.collapsible{
+    border-radius: 5px;
+}
+
+/*menu*/
+
+#menu{
+	height: 210px;
+	margin-top: 0px;
+}
+
+#menu nav{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu ul li{
+	display: inline-block;
+	margin: auto;
+}
+
+#menu ul li a{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: lobster;
+	color: #fff;
+
+}
+
+
+/*nos services*/
+
+#Nos_Services {
+	margin-top: 250px
+}
+
+#Nos_Services h3{
+	font-family: lobster;
+	font-size:40px;
+	margin-bottom: 100px
+}
+
+#condition p {
+	margin-top: 50px;
+	margin-bottom: 910px;
+	text-align: center;
+}
+
+
+/*Footer*/ 
+
+footer{
+	background-color: #362C37;
+}
+
+
+footer img{
+	margin-top: 7px;
+	border-right: solid #fff;
+}
+
+ footer li {
+	display: inline-block;
+	padding-bottom: 20px;
+}
+
+footer p {
+	color: #FFFFFF;
+	margin-left: 20px;
+	
+}
